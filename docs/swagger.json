@@ -1,0 +1,19 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "Swagger API for Golang Url shortener .",
+        "title": "Go Shortener Swagger API",
+        "termsOfService": "http://swagger.io/terms/",
+        "contact": {
+            "name": "Kshitij",
+            "email": "singh_kshitij@yahoo.com"
+        },
+        "license": {
+            "name": "MIT",
+            "url": "https://github.com/singhkshitij/"
+        },
+        "version": "1.0"
+    },
+    "basePath": "/api/v1",
+    "paths": {}
+}

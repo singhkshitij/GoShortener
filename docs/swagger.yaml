@@ -1,0 +1,14 @@
+basePath: /api/v1
+info:
+  contact:
+    email: singh_kshitij@yahoo.com
+    name: Kshitij
+  description: Swagger API for Golang Url shortener .
+  license:
+    name: MIT
+    url: https://github.com/singhkshitij/
+  termsOfService: http://swagger.io/terms/
+  title: Go Shortener Swagger API
+  version: "1.0"
+paths: {}
+swagger: "2.0"
